@@ -1,0 +1,1628 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* @media only screen and(min-width:425px) { */
+
+.parent {
+    width: 40px;
+    height: 40px;
+    border: 1px solid white;
+    border-radius: 8px;
+    margin-left: auto;
+}
+
+.divider {
+    border: 1px solid rgb(255, 255, 255);
+    margin: 9px;
+}
+
+.purple {
+    background-color: purple;
+    padding-bottom: 80px;
+}
+
+.logo {
+    margin-top: -25px;
+    padding-left: 25px;
+}
+
+.nav {
+    display: none;
+}
+
+.title {
+    font-family: 'Times New Roman';
+    font-size: 18px;
+    font-weight: 700;
+    color: white;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+
+}
+
+.btn {
+    font-family: 'Times New Roman';
+    font-size: 10px;
+    width: 140px;
+    padding: 5px;
+    color: white;
+    text-align: center;
+    margin-left: 150px;
+    background-color: rgb(247, 107, 6);
+    font-weight: 600;
+    border: none;
+    border-radius: 6px;
+}
+
+.green {
+    background-color: rgb(11, 239, 178);
+    padding-top: 15px;
+    padding-bottom: 30px;
+}
+
+h2 {
+    margin-top: 10px;
+    text-align: center;
+    color: white;
+}
+
+hr {
+    width: 100px;
+    height: 3px;
+    margin-left: 170px;
+    margin-top: 5px;
+    background-color: rgb(24, 170, 131);
+    opacity: 0.6;
+    border: none;
+}
+
+p {
+    text-align: center;
+    padding-top: 30px;
+    font-weight: 300;
+    font-size: 18px;
+    color: white;
+    margin: 10px;
+}
+
+
+.weoffer {
+    list-style-type: none;
+    text-align: center;
+}
+
+.images {
+
+    margin-left: 30px;
+    margin-top: 50px;
+}
+
+
+.grey {
+    background-color: rgb(235, 233, 233);
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+.h1 {
+    color: rgb(101, 101, 101);
+}
+
+.grey hr {
+    background-color: rgb(131, 131, 131);
+    margin-top: 5px;
+    width: 110px;
+    height: 3px;
+}
+
+.grey p {
+    color: black;
+    text-align: center;
+    margin-top: -10px;
+    font-size: 500;
+}
+
+.people {
+    padding-top: 10px;
+    padding-bottom: 30px;
+    list-style-type: none;
+
+}
+
+.members {
+    margin-top: 25px;
+    text-align: center;
+}
+
+.members img {
+    width: 225px;
+    border-radius: 112px;
+}
+
+.members h2 {
+    color: black;
+}
+
+.members h4 {
+    margin-top: 15px;
+    color: rgb(94, 125, 216);
+}
+
+.members p {
+    font-weight: 500;
+    font-size: 15px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.icons {
+    display: none;
+}
+
+.white hr {
+    background-color: rgb(54, 54, 54);
+    margin-left: 180px;
+}
+
+
+.white p {
+    color: black;
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.scale {
+    margin-top: 25px;
+    text-align: center;
+    position: relative
+}
+
+
+.scale h1 {
+    font-size: 60px;
+
+}
+
+.scale h2 {
+    color: rgb(84, 84, 84)
+}
+
+.scale span {
+    position: absolute;
+    top: 50px;
+    left: 195px;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.yellow {
+
+    background-color: rgb(250, 250, 120);
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+.h5 {
+    text-align: center;
+}
+
+.yellow hr {
+    background-color: rgb(163, 131, 48);
+}
+
+.yellow p {
+    color: black;
+}
+
+.yellowlu {
+    padding-top: 15px;
+    margin-left: 26%;
+}
+
+.yellowlu li {
+    display: inline-block;
+    background-color: rgb(29, 113, 29);
+    padding: 2px 6px 2px 6px;
+    border-radius: 3px;
+    list-style-type: none;
+}
+
+.yellowlu li a {
+    text-decoration: none;
+    color: aliceblue;
+
+}
+
+.laptop {
+    padding-top: 20px;
+    padding-bottom: 50px;
+    width: 425px;
+    margin-left: 40px;
+    list-style-type: none;
+
+}
+
+.screen img {
+    padding-top: 30px;
+    margin-left: 40px;
+    width: 300px;
+    height: auto;
+}
+
+.screen h2 {
+    font-size: 15px;
+    text-align: center;
+    color: black;
+    padding-top: 10px;
+    padding-bottom: 40px;
+    margin-left: -20px;
+}
+
+.laptop a {
+    background-color: rgb(25, 136, 51);
+    color: white;
+    margin-top: 40px;
+    padding: 5px 8px 5px 8px;
+    margin-left: 120px;
+    font-size: 12px;
+    text-decoration: none;
+    width: 150px;
+    height: 10px;
+    border-radius: 5px;
+}
+
+.pink {
+    background-color: rgb(207, 28, 121);
+    padding-top: 20px;
+    padding-bottom: 40px;
+
+}
+
+.pink h2 {
+    color: rgb(255, 255, 255);
+}
+
+.pink hr {
+    margin-top: 10px;
+    background-color: rgb(212, 156, 166);
+    width: 120px;
+}
+
+.pink p {
+    font-size: 17px;
+    margin-bottom: 10px;
+    font-weight: bold;
+
+}
+
+.name {
+    margin-left: 30px;
+    list-style-type: none;
+}
+
+.name img {
+    width: 250px;
+    height: 250px;
+    margin-left: 80px;
+    border-radius: 125px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+
+}
+
+.name p {
+    text-align: center;
+    font-size: 12px;
+    color: white;
+    margin-left: -10px;
+
+}
+
+.name h3 {
+    text-align: center;
+    font-size: 15px;
+    margin: 10px;
+    color: white;
+}
+
+.blue {
+    background-color: rgb(81, 81, 200);
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+.blue h1 {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.blue hr {
+    background-color: rgb(60, 60, 105);
+    width: 80px;
+    margin-left: 200px;
+}
+
+.blue p {
+    color: white;
+    text-align: center;
+    font-size: 16px;
+
+}
+
+form {
+    padding-left: 50px;
+    padding-bottom: 20px;
+    margin-left: 20px;
+}
+
+input {
+    margin-top: 20px;
+    background-color: rgba(0, 0, 0, 0.650);
+    border-radius: 5px;
+    font-family: serif;
+}
+
+.form1 input {
+    width: 162px;
+}
+
+.form2 textarea {
+    width: 327px;
+    border-radius: 4px;
+    background-color: rgba(0, 0, 0, 0.650);
+}
+
+.button {
+    width: 160px;
+    margin-left: 150px;
+    background-color: rgba(0, 0, 0, 0.650);
+    color: white;
+    padding: 3px 0px 3px 0px;
+    border-radius: 7px;
+}
+
+.darkblue {
+
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: rgb(18, 18, 92);
+    font-size: 13px;
+
+}
+
+.darkblue ul {
+    margin-left: 20px;
+}
+
+.darkblue li {
+    display: inline;
+    color: white;
+    margin-left: 12px;
+}
+
+/* Tablet responsive */
+
+
+@media only screen and (min-width:768px) {
+    .title {
+        font-size: 23px;
+        font-weight: 1000;
+    }
+
+    .btn {
+
+        font-size: 15px;
+        width: 190px;
+        margin-left: 36%;
+
+    }
+
+
+
+    h2 {
+        font-size: 30px;
+        margin-top: 10px;
+        text-align: center;
+        color: white;
+    }
+
+    hr {
+        width: 170px;
+        height: 3.5px;
+        margin-left: 300px;
+        border-radius: 1px;
+    }
+
+    p {
+        font-weight: 300;
+        font-size: 21px;
+    }
+
+
+    .weoffer {
+        display: flex;
+        flex-wrap: wrap;
+        width: 768px;
+    }
+
+
+    .images {
+        width: 250px;
+        padding: 50px;
+        margin: 10px;
+        /* margin-left: 10px;
+        margin-top: 50px; */
+    }
+
+
+    .grey hr {
+        width: 150px;
+    }
+
+
+
+    .people {
+        display: flex;
+        flex-wrap: wrap;
+        width: 768px;
+    }
+
+    .members {
+        width: 250px;
+        margin: 10px;
+        padding: 50px;
+    }
+
+    .members img {
+        width: 225px;
+        border-radius: 112px;
+    }
+
+    .members h2 {
+        color: black;
+        font-size: 20px;
+    }
+
+    .members h4 {
+        margin-top: 15px;
+        color: rgb(94, 125, 216);
+    }
+
+    .members p {
+        font-weight: 500;
+        font-size: 15px;
+        margin-left: 25px;
+        margin-right: 25px;
+    }
+
+
+
+    .icons {
+        display: inline;
+        padding-top: 10px;
+        text-align: center;
+        margin: 4px;
+    }
+
+
+
+    .icons i {
+        margin-left: 4px;
+        font-size: 20px;
+        padding: 8px;
+        border-radius: 20px;
+        background-color: rgb(185, 180, 190);
+        color: rgb(52, 54, 56);
+        opacity: 0.4;
+    }
+
+    .white hr {
+        width: 100px;
+        margin-left: 320px;
+    }
+
+    .white p {
+        color: black;
+        text-align: center;
+        margin: 10px;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    .scale {
+        width: 310px;
+        margin: 10px;
+        padding: 20px;
+        text-align: center;
+        position: relative
+    }
+
+
+    .scale h1 {
+        font-size: 60px;
+
+    }
+
+    .scale h2 {
+        color: rgb(84, 84, 84)
+    }
+
+    .scale span {
+        position: absolute;
+        top: 75px;
+        left: 130px;
+        font-size: 50px;
+        font-weight: bold;
+    }
+
+    .yellow {
+
+        background-color: rgb(250, 250, 120);
+        padding-top: 20px;
+        padding-bottom: 30px;
+    }
+
+    .h5 {
+        text-align: center;
+    }
+
+    .yellow hr {
+        background-color: rgb(163, 131, 48);
+    }
+
+    .yellow p {
+        color: rgb(0, 0, 0);
+    }
+
+    .yellowlu {
+        padding-top: 15px;
+        margin-left: 250px;
+    }
+
+    .yellowlu li {
+        display: inline-block;
+        background-color: rgb(29, 113, 29);
+        padding: 5px 10px 5px 10px;
+        border-radius: 3px;
+        ;
+    }
+
+    .yellowlu li a {
+        text-decoration: none;
+        color: aliceblue;
+
+    }
+
+    .laptop {
+        display: flex;
+        flex-wrap: wrap;
+        padding-top: 20px;
+        padding-bottom: 50px;
+        width: 768px;
+
+    }
+
+    .screen img {
+        width: 250px;
+        padding-top: 30px;
+        margin-left: 40px;
+        width: 300px;
+        height: auto;
+    }
+
+    .screen h2 {
+        font-size: 18px;
+        color: black;
+        padding-top: 10px;
+        padding-bottom: 40px;
+    }
+
+    .laptop a {
+        background-color: rgb(25, 136, 51);
+        color: white;
+        margin-top: -10px;
+        padding: 8px 8px 10px 8px;
+        margin-left: 250px;
+        width: 200px;
+        text-align: center;
+    }
+
+    .pink {
+        background-color: rgb(207, 28, 121);
+        padding-top: 20px;
+        padding-bottom: 40px;
+
+    }
+
+    .pink h2 {
+        color: rgb(255, 255, 255);
+    }
+
+    .pink hr {
+        margin-top: 15px;
+        background-color: rgb(212, 156, 166);
+        width: 200px;
+    }
+
+    .pink p {
+        font-size: 23px;
+        margin-bottom: 20px;
+        font-weight: 600;
+    }
+
+    .client {
+        display: flex;
+        flex-wrap: wrap;
+        width: 768px;
+
+    }
+
+    .name {
+        width: 300px;
+        list-style-type: none;
+        margin: 20px;
+        text-align: center;
+    }
+
+    .name img {
+        width: 200px;
+        height: 200px;
+        margin-left: 70px;
+        border-radius: 100px;
+        padding-top: 30px;
+        padding-bottom: 20px;
+    }
+
+    .name p {
+        text-align: center;
+        font-size: 15px;
+        color: white;
+        margin-left: 50px;
+    }
+
+    .name h3 {
+        text-align: center;
+        font-size: 15px;
+        margin: 10px;
+        color: white;
+        margin-left: 40px;
+    }
+
+    .blue {
+        background-color: rgb(81, 81, 200);
+        padding-top: 20px;
+        padding-bottom: 30px;
+    }
+
+    .blue h1 {
+        color: white;
+        text-align: center;
+        font-size: 25px;
+        font-weight: 600;
+    }
+
+    .blue hr {
+        background-color: rgb(60, 60, 105);
+        width: 90px;
+        margin-left: 340px;
+    }
+
+    .blue p {
+        color: white;
+        text-align: center;
+        font-size: 17px;
+
+    }
+
+    form {
+        margin-left: 80px;
+        padding-left: 50px;
+        padding-bottom: 20px;
+    }
+
+    .input {
+
+        margin-right: 20px;
+        background-color: rgba(0, 0, 0, 0.650);
+        border-radius: 5px;
+        font-family: serif;
+
+    }
+
+    .form1 input {
+        width: 250px;
+        height: 21px;
+        border: 3px solid black;
+    }
+
+    .form2 textarea {
+        width: 510px;
+        height: 150px;
+        border-radius: 4px;
+        background-color: rgba(0, 0, 0, 0.650);
+        border: 3px solid black;
+    }
+
+    .button {
+        width: 180px;
+        margin-left: 300px;
+        background-color: rgba(0, 0, 0, 0.650);
+        color: white;
+        padding: 4px 0px 4px 0px;
+        border-radius: 7px;
+    }
+
+    .darkblue {
+        padding-top: 15px;
+        padding-bottom: 15px;
+        background-color: rgb(18, 18, 92);
+        font-size: 18px;
+
+    }
+
+    .darkblue li {
+        display: inline;
+        color: white;
+        margin-left: 30px;
+    }
+}
+
+/* laptop REsponsive */
+
+@media only screen and (min-width:1024px) {
+
+
+    .parent {
+        display: none;
+    }
+
+    .logo {
+        margin-top: 20px;
+        margin-left: 20px;
+    }
+
+    .nav {
+        margin-top: 40px;
+        float: right;
+        display: inline;
+        margin-right: 30px;
+    }
+
+    .nav a {
+        text-decoration: none;
+        color: white;
+        padding: 10px;
+        font-weight: 600;
+
+    }
+
+
+    .title {
+        margin-top: 40px;
+        font-size: 30px;
+        font-weight: 1000;
+    }
+
+    .btn {
+
+        font-size: 18px;
+        width: 240px;
+        margin-left: 38%;
+
+    }
+
+
+
+    h2 {
+        font-size: 35px;
+        margin-top: 10px;
+        text-align: center;
+        color: white;
+    }
+
+    hr {
+        margin-top: 10px;
+        width: 170px;
+        height: 3.5px;
+        margin-left: 420px;
+        border-radius: 1px;
+    }
+
+    p {
+        font-weight: 300;
+        font-size: 22px;
+    }
+
+
+    .weoffer {
+        display: flex;
+        flex-wrap: wrap;
+        width: 1024px;
+        margin-left: 10px;
+    }
+
+
+    .images {
+        width: 200px;
+        padding: 15px;
+
+
+    }
+
+    .images h2 {
+        font-size: 20px;
+    }
+
+    .images p {
+        font-size: 15px;
+    }
+
+
+    .grey hr {
+        width: 180px;
+    }
+
+
+
+    .people {
+        display: flex;
+        flex-wrap: wrap;
+        width: 1024px;
+        margin-left: 20px;
+    }
+
+    .members {
+        width: 200px;
+        margin: 10px;
+        padding: 10px;
+    }
+
+    .members img {
+        width: 200px;
+        border-radius: 100px;
+        margin: 5px;
+    }
+
+    .members h2 {
+        color: black;
+        font-size: 18px;
+    }
+
+    .members h4 {
+        margin-top: 14px;
+        color: rgb(94, 125, 216);
+    }
+
+    .members p {
+        font-weight: 400;
+        font-size: 15px;
+        margin-left: 25px;
+        margin-right: 20px;
+        text-align: justify;
+    }
+
+    .white hr {
+        background-color: rgb(184, 183, 183);
+    }
+
+    .white p {
+        color: black;
+        text-align: center;
+        margin: 10px;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    .people {
+        display: flex;
+        flex-wrap: wrap;
+        width: 1024;
+    }
+
+    .scale {
+        width: 200px;
+        /* margin: 10px; */
+        padding: 10px;
+        text-align: center;
+        position: relative
+    }
+
+
+    .scale h1 {
+        font-size: 60px;
+
+    }
+
+    .scale h2 {
+        color: rgb(84, 84, 84);
+        margin-top: 24px;
+        font-size: 20px;
+    }
+
+    .scale span {
+        position: absolute;
+        top: 65px;
+        left: 70px;
+        font-size: 50px;
+        font-weight: bold;
+    }
+
+    .yellow {
+
+        background-color: rgb(250, 250, 120);
+        padding-top: 20px;
+        padding-bottom: 30px;
+
+    }
+
+    .h5 {
+        text-align: center;
+        font-size: 40px;
+    }
+
+    .yellow hr {
+        background-color: rgb(163, 131, 48);
+    }
+
+    .yellow p {
+        color: rgb(0, 0, 0);
+        font-size: 20px;
+        font-weight: 500;
+    }
+
+    .yellowlu {
+        padding-top: 15px;
+        margin-left: 300px;
+        padding: 20px;
+    }
+
+    .yellowlu li {
+        width: 50px;
+        text-align: center;
+        display: inline-block;
+        background-color: rgb(29, 113, 29);
+        padding: 3px 8px 3px 8px;
+        margin-left: 10px;
+        border-radius: 3px;
+        ;
+    }
+
+    .yellowlu li a {
+        text-decoration: none;
+        color: aliceblue;
+
+
+    }
+
+    .laptop {
+        display: flex;
+        flex-wrap: wrap;
+        margin-left: 60px;
+        /* padding-top: 20px;
+        padding-bottom: 50px; */
+        width: 1024px;
+        /* padding: 60px; */
+        list-style-type: none;
+    }
+
+    .screen img {
+        width: 400px;
+        padding-top: 30px;
+        margin-left: 15spx;
+    }
+
+    .screen h2 {
+        font-size: 18px;
+        color: black;
+        padding-top: 10px;
+        padding-bottom: 40px;
+    }
+
+    .laptop a {
+        background-color: rgb(25, 136, 51);
+        color: white;
+        margin-top: 5px;
+        padding: 8px 8px 12px 8px;
+        margin-left: 320px;
+        width: 250px;
+        text-align: center;
+    }
+
+    .pink {
+        background-color: rgb(207, 28, 121);
+        padding-top: 20px;
+        padding-bottom: 40px;
+
+    }
+
+    .pink h2 {
+        color: rgb(255, 255, 255);
+    }
+
+    .pink hr {
+        margin-top: 15px;
+        background-color: rgb(212, 156, 166);
+        width: 200px;
+    }
+
+    .pink p {
+        font-size: 23px;
+        margin-bottom: 20px;
+        font-weight: 600;
+    }
+
+    .client {
+        display: flex;
+        flex-wrap: wrap;
+        width: 1024px;
+
+    }
+
+    .name {
+        width: 200px;
+        list-style-type: none;
+        margin: 20px;
+        text-align: center;
+    }
+
+    .name img {
+
+
+        margin-left: 30px;
+        border-radius: 100px;
+        padding-top: 30px;
+        padding-bottom: 20px;
+    }
+
+    .name p {
+        text-align: center;
+        font-size: 15px;
+        color: white;
+        margin-left: 50px;
+    }
+
+    .name h3 {
+        text-align: center;
+        font-size: 14px;
+        margin: 5px;
+        color: white;
+        margin-left: 30px;
+    }
+
+    .blue {
+        background-color: rgb(81, 81, 200);
+        padding-top: 20px;
+        padding-bottom: 30px;
+    }
+
+    .blue h1 {
+        color: white;
+        text-align: center;
+        font-size: 30px;
+        font-weight: 550;
+    }
+
+    .blue hr {
+        background-color: rgb(60, 60, 105);
+        width: 100px;
+        margin-left: 460px;
+    }
+
+    .blue p {
+        color: white;
+        text-align: center;
+        font-size: 20px;
+        opacity: 0.8;
+
+    }
+
+    form {
+        margin-left: 150px;
+        padding-left: 50px;
+        padding-bottom: 20px;
+    }
+
+    .input {
+
+        margin-right: 10px;
+        background-color: rgba(0, 0, 0, 0.650);
+        border-radius: 5px;
+        font-family: serif;
+
+    }
+
+    .form1 input {
+        width: 300px;
+        height: 21px;
+        border: 3px solid black;
+    }
+
+    .form2 textarea {
+        width: 610px;
+        height: 150px;
+        border-radius: 4px;
+        background-color: rgba(0, 0, 0, 0.650);
+        border: 3px solid black;
+    }
+
+    .button {
+        width: 220px;
+        margin-left: 400px;
+        background-color: rgba(0, 0, 0, 0.650);
+        color: white;
+        padding: 6px 0px 6px 0px;
+        border-radius: 7px;
+    }
+
+    .darkblue {
+        padding-top: 15px;
+        padding-bottom: 15px;
+        background-color: rgb(18, 18, 92);
+        font-size: 16px;
+
+    }
+
+    .darkblue ul li {
+        display: inline;
+        color: white;
+        margin-left: 30px;
+    }
+
+    .darkblue ul {
+        margin-left: 190px;
+    }
+}
+
+/* big screen responsive */
+
+@media only screen and (min-width:1440px) {
+
+
+    .parent {
+        display: none;
+    }
+
+    .logo {
+        width: 150px;
+        margin-top: 30px;
+        margin-left: 30px;
+
+    }
+
+    .nav {
+        margin-top: 40px;
+        display: inline;
+        margin-right: 50px;
+    }
+
+    .nav a {
+        text-decoration: none;
+        color: white;
+        padding: 8px;
+        font-weight: 600;
+        font-size: 20px;
+
+    }
+
+
+    .title {
+        margin-top: 30px;
+        font-size: 35px;
+        font-weight: 900;
+    }
+
+    .btn {
+
+        font-size: 18px;
+        width: 250px;
+        margin-left: 41%;
+
+    }
+
+
+
+    h2 {
+        font-size: 35px;
+        margin-top: 10px;
+        text-align: center;
+        color: white;
+    }
+
+    hr {
+        margin-top: 10px;
+        width: 170px;
+        height: 3.5px;
+        margin-left: 650px;
+        border-radius: 1px;
+    }
+
+    p {
+        font-weight: 300;
+        font-size: 22px;
+    }
+
+
+    .weoffer {
+        display: flex;
+        flex-wrap: wrap;
+        width: 1440px;
+        margin-left: 60px;
+        padding-top: 30px;
+    }
+
+
+    .images {
+
+        width: 300px;
+        padding: 10px;
+
+
+    }
+
+    .images h2 {
+        font-size: 20px;
+    }
+
+    .images p {
+        font-size: 15px;
+    }
+
+
+    .grey hr {
+        width: 180px;
+
+    }
+
+    .grey p {
+        font-size: 20px;
+        font-weight: 300;
+
+    }
+
+
+
+    .people {
+        display: flex;
+        flex-wrap: wrap;
+        width: 1440px;
+        margin-left: 80px;
+    }
+
+    .members {
+        width: 300px;
+        margin: 10px;
+        padding: 10px;
+    }
+
+    .members img {
+        width: 200px;
+        border-radius: 100px;
+        margin: 5px;
+    }
+
+    .members h2 {
+        color: black;
+        font-size: 20px;
+    }
+
+    .members h4 {
+        margin-top: 14px;
+        color: rgb(94, 125, 216);
+    }
+
+    .members p {
+        font-weight: 400;
+        font-size: 16px;
+        margin-left: 25px;
+        margin-right: 20px;
+        text-align: justify;
+    }
+
+    .people icons {
+        margin-right: 1000px;
+    }
+
+    .icons {
+
+        padding-top: 40px;
+        text-align: center;
+
+        margin: 4px;
+    }
+
+
+
+    .icons i {
+        margin-left: 4px;
+        font-size: 25px;
+        padding: 12px;
+        border-radius: 25px;
+        background-color: rgb(185, 180, 190);
+        color: aliceblue;
+        opacity: 0.4;
+    }
+
+    .white hr {
+        width: 120px;
+        background-color: rgb(184, 183, 183);
+    }
+
+    .white p {
+        color: black;
+        text-align: center;
+        margin: 10px;
+        margin-left: 20px;
+        margin-right: 20px;
+
+    }
+
+    .people {
+        display: flex;
+        flex-wrap: wrap;
+        width: 1440px;
+
+    }
+
+    .scale {
+        margin-left: 25px;
+        width: 300px;
+        /* margin: 10px; */
+        padding: 10px;
+        text-align: center;
+        position: relative
+    }
+
+
+    .scale h1 {
+        font-size: 60px;
+
+    }
+
+    .scale h2 {
+        color: rgb(84, 84, 84);
+        margin-top: 24px;
+        font-size: 20px;
+    }
+
+    .scale span {
+        position: absolute;
+        top: 65px;
+        left: 120px;
+        font-size: 50px;
+        font-weight: bold;
+    }
+
+    .yellow {
+
+        background-color: rgb(250, 250, 120);
+        padding-top: 20px;
+        padding-bottom: 30px;
+
+    }
+
+    .h5 {
+        text-align: center;
+        font-size: 40px;
+    }
+
+    .yellow hr {
+        background-color: rgb(163, 131, 48);
+    }
+
+    .yellow p {
+        color: rgb(0, 0, 0);
+        font-size: 24px;
+        font-weight: 500;
+    }
+
+    .yellowlu {
+        padding-top: 15px;
+        margin-left: 520px;
+        padding: 20px;
+    }
+
+    .yellowlu li {
+        width: 60px;
+        text-align: center;
+        display: inline-block;
+        background-color: rgb(29, 113, 29);
+        padding: 5px 8px 5px 8px;
+        margin-left: 10px;
+        border-radius: 3px;
+    }
+
+    .yellowlu li a {
+        text-decoration: none;
+        color: aliceblue;
+
+
+    }
+
+    .laptop {
+        display: flex;
+        flex-wrap: wrap;
+        margin-left: 120px;
+        /* padding-top: 20px;
+        padding-bottom: 50px; */
+        width: 1440px;
+        /* padding: 60px; */
+        list-style-type: none;
+    }
+
+    .screen img {
+        width: 550px;
+        padding-top: 30px;
+        margin-left: 70px;
+    }
+
+    .screen h2 {
+        font-size: 20px;
+        color: black;
+        padding-top: 10px;
+        padding-bottom: 40px;
+    }
+
+    .laptop a {
+        background-color: rgb(25, 136, 51);
+        color: white;
+        margin-top: 10px;
+        padding: 8px 8px 14px 8px;
+        margin-left: 450px;
+        font-size: 18px;
+        width: 280px;
+        text-align: center;
+    }
+
+    .pink {
+        background-color: rgb(207, 28, 121);
+        padding-top: 20px;
+        padding-bottom: 40px;
+
+    }
+
+    .pink h2 {
+        color: rgb(255, 255, 255);
+    }
+
+    .pink hr {
+        margin-top: 15px;
+        background-color: rgb(212, 156, 166);
+        width: 200px;
+    }
+
+    .pink p {
+        font-size: 23px;
+        margin-bottom: 20px;
+        font-weight: 600;
+
+    }
+
+    .client {
+        display: flex;
+        flex-wrap: wrap;
+        width: 1440px;
+
+    }
+
+    .name {
+        width: 300px;
+        list-style-type: none;
+        margin: 20px;
+        text-align: center;
+        margin-left: 30px;
+    }
+
+    .name img {
+
+
+        margin-left: 30px;
+        border-radius: 100px;
+        padding-top: 30px;
+        padding-bottom: 20px;
+    }
+
+    .name p {
+        text-align: center;
+        font-size: 15px;
+        color: white;
+        margin-left: 50px;
+    }
+
+    .name h3 {
+        text-align: center;
+        font-size: 14px;
+        margin: 5px;
+        color: white;
+        margin-left: 30px;
+    }
+
+    .blue {
+        background-color: rgb(81, 81, 200);
+        padding-top: 20px;
+        padding-bottom: 30px;
+    }
+
+    .blue h1 {
+        color: white;
+        text-align: center;
+        font-size: 30px;
+        font-weight: 550;
+    }
+
+    .blue hr {
+        background-color: rgb(60, 60, 105);
+        width: 100px;
+        margin-left: 700px;
+    }
+
+    .blue p {
+        color: white;
+        text-align: center;
+        font-size: 15px;
+        margin-left: 30px;
+
+    }
+
+    form {
+        margin-left: 350px;
+        padding-left: 50px;
+        padding-bottom: 20px;
+    }
+
+    .input {
+
+        margin-right: 10px;
+        background-color: rgba(0, 0, 0, 0.650);
+        border-radius: 5px;
+        font-family: serif;
+
+    }
+
+    .form1 input {
+        width: 350px;
+        height: 21px;
+        border: 3px solid black;
+    }
+
+    .form2 textarea {
+        width: 700px;
+        height: 150px;
+        border-radius: 4px;
+        background-color: rgba(0, 0, 0, 0.650);
+        border: 3px solid black;
+    }
+
+    .button {
+        width: 200px;
+        margin-left: 650px;
+        background-color: rgba(0, 0, 0, 0.650);
+        color: white;
+        padding: 6px 0px 6px 0px;
+        border-radius: 7px;
+    }
+
+    .darkblue {
+        padding-top: 15px;
+        padding-bottom: 15px;
+        background-color: rgb(18, 18, 92);
+        font-size: 16px;
+
+    }
+
+    .darkblue ul li {
+        display: inline;
+        color: white;
+        margin-left: 30px;
+        padding: 10px;
+    }
+
+    .darkblue ul {
+        margin-left: 350px;
+    }
+}
